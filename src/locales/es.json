@@ -1,0 +1,255 @@
+{
+  "appBar": {
+    "title": "Servicios De Ciberseguridad",
+    "home": "Plataforma",
+    "solutions": {
+      "title": "Soluciones",
+      "items": [
+        {
+          "name": "ISO 27001",
+          "href": "/iso-27001"
+        },
+        {
+          "name": "PCI DSS",
+          "href": "/pci-dss"
+        },
+        {
+          "name": "Pentest",
+          "href": "/pentest"
+        }
+      ]
+    },
+    "contact": "Contactanos",
+    "partners": "Socios"
+  },
+  "home": {
+    "top": {
+      "title": "ACERHO",
+      "description": "“Nos dedicamos a capacitar y guiar a individuos y organizaciones en el fortalecimiento de sus conocimientos y habilidades en materia de seguridad digital”"
+    },
+    "description": {
+      "title": "Nuestra solución",
+        "content": "ACERHO proporciona un soporte técnico integral y proactivo que no solo responda a las necesidades inmediatas de sus clientes en materia de ciberseguridad, sino que también contribuye a su crecimiento y éxito a largo plazo mediante la protección de sus activos digitales y la mitigación de riesgos"
+    },
+    "features": {
+      "title": "Características",
+      "description": "Nuestras herramientas de control y monitoreo operativo permiten a los propietarios y administradores mantenerse al tanto de eventos importantes y tomar acciones inmediatas cuando sea necesario. Proporciona una defensa integral y proactiva en ciberseguridad para su organización,a través de un monitoreo constante y avanzado de su infraestructura de IT, se detectan y responden rápidamente a posibles amenazas, asegurando la protección continua de sus activos digitales.",
+      "items": [
+        {
+          "title": "Monitoreo proactivo",
+          "icon": "mdi-tools",
+          "text": "Supervisar continuamente la infraestructura de IT y los sistemas de la organización en busca de posibles amenazas y anomalías."
+        },
+        {
+          "title": "Detección y respuesta a incidentes",
+          "icon": "mdi-magnify",
+          "text": "Identificar, investigar y responder rápidamente a incidentes de seguridad cibernética, como intrusiones, malware, vulnerabilidades explotadas, etc."
+        },
+        {
+          "title": "Gestión de vulnerabilidades",
+          "icon": "mdi-cart-outline",
+          "text": "Identificar y priorizar las vulnerabilidades en los sistemas y aplicaciones, y coordinar la aplicación de parches y soluciones."
+        },
+        {
+          "title": "Análisis forense",
+          "icon": "mdi-account-credit-card",
+          "text": "Realizar análisis forenses en sistemas comprometidos para determinar el origen y la extensión de una brecha de seguridad."
+        },
+        {
+          "title": "Implementación de políticas de seguridad",
+          "icon": "mdi-check-circle",
+          "text": "Desarrollar y hacer cumplir políticas de seguridad de TI para proteger los activos digitales y la información confidencial de la organización."
+        },
+        {
+          "title": "Educación y concientización",
+          "icon": "mdi-touch-text-outline",
+          "text": "Proporcionar formación y concientización en seguridad cibernética para empleados y usuarios finales, para ayudar a prevenir incidentes por errores humanos."
+        },
+        {
+          "title": "Colaboración con otras áreas de TI",
+          "icon": "mdi-monitor-dashboard",
+          "text": "Trabajar en estrecha colaboración con otros equipos de TI, como el equipo de redes, el equipo de aplicaciones, etc., para garantizar una postura de seguridad integral."
+        }
+      ]
+    },
+    "offers": {
+      "items": [
+        {
+          "icon": "mdi-check-all",
+          "title": "Expertos en seguridad",
+          "text": "Nuestro equipo está compuesto por expertos altamente capacitados y certificados en seguridad cibernética."
+        },
+        {
+          "icon": "mdi-monitor-eye",
+          "title": "Herramientas y tecnologías avanzadas",
+          "text": "Utilizamos herramientas y tecnologías de vanguardia en seguridad cibernética para monitorear, detectar y responder a amenazas de manera eficiente."
+        },
+        {
+          "icon": "mdi-bell-alert",
+          "title": "Procesos y procedimientos bien definidos",
+          "text": "Contamos con procesos y procedimientos claros y bien definidos para la gestión de incidentes."
+        },
+        {
+          "icon": "mdi-laptop",
+          "title": "Transparencia y comunicación",
+          "text": "Mantenemos una comunicación abierta y transparente con nuestros clientes en todo momento."
+        },
+        {
+          "icon": "mdi-calendar-range",
+          "title": "Mejora continua",
+          "text": "Estamos comprometidos con la mejora continua de nuestros servicios y procesos."
+        }
+      ]
+    }
+  },
+  "iso-27001": {
+    "topAlternative": {
+      "title": "ISO 27001",
+      "content": "“Nos especializamos en guiar a su organización hacia la certificación ISO 27001, el estándar internacional para la gestión de la seguridad de la información”"
+    },
+    "features": {
+      "title": "Servicios de Consultoría Especializada en ISO 27001",
+      "description": " Con un equipo de expertos certificados en ISO 27001, proporcionamos una evaluación exhaustiva de su infraestructura de IT, identificamos y mitigamos riesgos de seguridad, y diseñamos e implementamos un sistema de gestión de seguridad de la información robusto y eficaz.",
+      "items": [
+        {
+          "title": "Asesoramiento y soporte técnico",
+          "icon": "mdi-tools",
+          "text": "Proporcionar orientación y asistencia técnica a todas las partes interesadas de la organización en lo relacionado con la implementación y mantenimiento de ISO 27001."
+        },
+        {
+          "title": "Gestión de incidentes de seguridad",
+          "icon": "mdi-magnify",
+          "text": "Registrar, investigar y gestionar los incidentes de seguridad de la información, asegurando una respuesta rápida y efectiva para minimizar el impacto en la organización."
+        },
+        {
+          "title": "Monitoreo y análisis de riesgos",
+          "icon": "mdi-cart-outline",
+          "text": "Realizar evaluaciones periódicas de riesgos de seguridad de la información, identificando y evaluando posibles amenazas y vulnerabilidades, y proponiendo medidas de mitigación."
+        },
+        {
+          "title": "Soporte en auditorías y revisiones",
+          "icon": "mdi-account-credit-card",
+          "text": "Preparar la organización para auditorías internas y externas de conformidad con ISO 27001, así como para revisiones de cumplimiento de políticas y procedimientos internos."
+        },
+        {
+          "title": "Mantenimiento de la documentación",
+          "icon": "mdi-check-circle",
+          "text": "Gestionar la documentación del SGSI, asegurando que esté actualizada, accesible y cumpla con los requisitos establecidos por ISO 27001."
+        },
+        {
+          "title": "Formación y sensibilización",
+          "icon": "mdi-touch-text-outline",
+          "text": "Proporcionar formación y sensibilización sobre seguridad de la información a los empleados de la organización para fomentar una cultura de seguridad."
+        }
+      ]
+    }
+  },
+  "pci-dss": {
+    "topAlternative": {
+      "title": "PCI DSS",
+      "content": "“Nos especializamos en guiar a su organización hacia el cumplimiento exitoso de los requisitos del Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS).”"
+    },
+    "features": {
+      "title": "Asistencia Integral en PCI DSS",
+      "description": "Nos comprometemos a brindarle el conocimiento, la orientación y el apoyo necesarios en cada paso del camino, desde la evaluación inicial hasta la obtención y mantenimiento de la certificación PCI DSS.",
+      "items": [
+        {
+          "title": "Asesoramiento y orientación",
+          "icon": "mdi-tools",
+          "text": "Proporcionar orientación experta sobre los requisitos de PCI DSS y cómo aplicarlos a la infraestructura de IT y los procesos de la organización."
+        },
+        {
+          "title": "Evaluación de cumplimiento inicial",
+          "icon": "mdi-cash-plus",
+          "text": "Realizar una evaluación exhaustiva de la infraestructura de IT y los procesos de la organización para identificar las áreas que no cumplen con los requisitos de PCI DSS."
+        },
+        {
+          "title": "Desarrollo de políticas y procedimientos",
+          "icon": "mdi-finance",
+          "text": "Ayudar en la creación y documentación de políticas y procedimientos de seguridad de datos que cumplan con los estándares de PCI DSS."
+        },
+        {
+          "title": "Implementación de controles de seguridad",
+          "icon": "mdi-web",
+          "text": "Asistir en la implementación de controles de seguridad técnicos y organizativos para proteger los datos de tarjetas de pago y cumplir con los requisitos de PCI DSS."
+        },
+        {
+          "title": "Gestión de incidentes de seguridad",
+          "icon": "mdi-account-credit-card",
+          "text": "Gestionar y responder a incidentes de seguridad de datos de tarjetas de pago de acuerdo con los requisitos de PCI DSS, incluida la notificación a las partes relevantes."
+        },
+        {
+          "title": "Formación y sensibilización",
+          "icon": "mdi-store-clock",
+          "text": "Proporcionar formación y sensibilización en seguridad de datos a empleados y contratistas para garantizar la comprensión de los requisitos de PCI DSS y promover una cultura de seguridad."
+        }
+      ]
+    }
+  },
+  "pentest": {
+    "topAlternative": {
+      "title": "Pentest",
+      "content": "“Proporcionamos orientación experta y servicios de pentest para garantizar la seguridad y robustez de su infraestructura de TI”"
+    },
+    "features": {
+      "title": "G Soporte Integral para la Mejora Continua de la Seguridad Cibernética",
+      "description": "Ofrecemos asesoramiento y soporte continuo para la implementación de soluciones correctivas y la mejora de la postura de seguridad general de su organización.",
+      "items": [
+        {
+          "title": "Asesoramiento inicial",
+          "icon": "mdi-check-all",
+          "text": "Proporcionar orientación y asesoramiento a la organización sobre la necesidad y la metodología adecuada para realizar pruebas de penetración."
+        },
+        {
+          "title": "Planificación y preparación",
+          "icon": "mdi-barcode-scan",
+          "text": "Colaborar con la organización para planificar y preparar el entorno y los sistemas que serán objeto de las pruebas de penetración."
+        },
+        {
+          "title": "Ejecución de pruebas",
+          "icon": "mdi-message-alert-outline",
+          "text": "Realizar pruebas de penetración éticas para identificar y explotar vulnerabilidades en la infraestructura de TI, sistemas y aplicaciones de la organización."
+        },
+        {
+          "title": "Análisis de resultados",
+          "icon": "mdi-store-clock-outline",
+          "text": "Analizar los resultados de las pruebas de penetración para identificar las vulnerabilidades encontradas, evaluar su gravedad y proporcionar recomendaciones para su mitigación."
+        },
+        {
+          "title": "Generación de informes",
+          "icon": "mdi-file-document-alert-outline",
+          "text": "Elaborar informes detallados que documenten los hallazgos de las pruebas de penetración, incluyendo las vulnerabilidades encontradas, su impacto potencial y las recomendaciones para su corrección."
+        },
+        {
+          "title": "Asesoramiento y orientación",
+          "icon": "mdi-web",
+          "text": "Proporcionar asesoramiento y orientación a la organización sobre cómo abordar y corregir las vulnerabilidades identificadas durante las pruebas de penetración."
+        }
+      ]
+    }
+  },
+  "top-section": {
+    "get-more": "Conocer mas..."
+  },
+  "contact-section": {
+    "business-info": {
+      "title": "Contactanos",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo pariatur quidem, quis modi iure nihil commodi suscipit, corporis dicta adipisci, voluptatum quia cupiditate."
+    },
+    "base-contact-form": {
+      "title": "Envianos un email"
+    }
+  },
+  "base-contact-form": {
+    "btn": "Enviar mensaje"
+  },
+  "contacto": {
+    "title": "Contáctanos"
+  },
+  "partners": {
+    "topAlternative": {
+      "title": "Socios",
+      "content": "ACERHO ha consolidado fuertes alianzas con distintas organizaciones con el propósito de proveer mejores soluciones integrales a sus clientes, ya que parte de nuestra estrategia corporativa es establecer relaciones bajo el enfoque de Ganar-Ganar."
+    }
+  }
+}
